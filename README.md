@@ -6,4 +6,4 @@
 
 | Screen 4      | Screen 5      | Screen 6   |
 |------------|-------------|-------------|
-| <img src="https://i.postimg.cc/FsrV8LLy/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-49-57.png" width="250"> | <img src="https://i.postimg.cc/fbZFrLD1/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-42-38.png" width="250"> |<img src="https://i.postimg.cc/Px57dRL4/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-42-28.png" width="250"> |
+| <img src="https://i.postimg.cc/FsrV8LLy/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-49-57.png" width="250"> | <img src="https://i.postimg.cc/fbZFrLD1/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-42-38.png" width="250"> |<img src="https://i.postimg.cc/QCtVkhFT/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-08-18-at-15-53-45.png" width="250"> |
